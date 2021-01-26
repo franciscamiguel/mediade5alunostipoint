@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mediade5alunostipoint/1.0.0": {
+        "runtime": {
+          "mediade5alunostipoint.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mediade5alunostipoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

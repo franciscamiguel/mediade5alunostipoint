@@ -1,0 +1,11 @@
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\bin\Debug\netcoreapp3.1\mediade5alunostipoint.exe
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\bin\Debug\netcoreapp3.1\mediade5alunostipoint.deps.json
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\bin\Debug\netcoreapp3.1\mediade5alunostipoint.runtimeconfig.json
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\bin\Debug\netcoreapp3.1\mediade5alunostipoint.runtimeconfig.dev.json
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\bin\Debug\netcoreapp3.1\mediade5alunostipoint.dll
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\bin\Debug\netcoreapp3.1\mediade5alunostipoint.pdb
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\obj\Debug\netcoreapp3.1\mediade5alunostipoint.csprojAssemblyReference.cache
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\obj\Debug\netcoreapp3.1\mediade5alunostipoint.AssemblyInfoInputs.cache
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\obj\Debug\netcoreapp3.1\mediade5alunostipoint.AssemblyInfo.cs
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\obj\Debug\netcoreapp3.1\mediade5alunostipoint.dll
+C:\Users\Note positivo\Documents\fran\mediade5alunostipoint\obj\Debug\netcoreapp3.1\mediade5alunostipoint.pdb
