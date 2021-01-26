@@ -7,7 +7,8 @@ namespace mediade5alunostipoint
     {
         static void Main(string[] args)
         {
-            decimal media = 0;
+            double media = 0;
+            
             int idade1 = 0;
             int idade2 = 0;
             int idade3 = 0;
